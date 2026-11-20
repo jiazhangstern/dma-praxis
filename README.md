@@ -15,6 +15,14 @@ Get the latest version from the **[Releases page](https://github.com/jiazhangste
 
 Each zip contains the license and installation instructions.
 
+## Guide and example
+
+On the same Releases page:
+
+- `DMA-Praxis-Step-by-Step-Guide.pdf`: slides that build a simulation and a stochastic optimization model step by step,
+  using a portfolio of 20 corporate bonds.
+- `Bond_Portfolio_Completed_Models.xlsx`: the finished models of that example.
+
 ## Sharing
 
 You may share the link to this page with anyone. Please do not share the installers or zip files themselves: send
