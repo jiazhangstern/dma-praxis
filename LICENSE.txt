@@ -1,0 +1,164 @@
+DMA PRAXIS
+Free Educational License Agreement
+
+Copyright 2026 Jiawei Zhang. All rights reserved.
+
+IN BRIEF
+
+DMA Praxis is an Excel add-in and companion app for simulation and
+optimization. Jiawei Zhang offers this proprietary software free of charge
+for education on Mac and Windows. This edition expires on June 30, 2027.
+
+Download DMA Praxis only from its official download page,
+https://github.com/jiazhangstern/dma-praxis. You may share the link to
+that page with anyone. Do not share the package files themselves: do not
+post, upload, email, or pass on the installers or zip files.
+
+Students, teaching assistants, and instructors may use DMA Praxis for
+coursework, self-study, teaching, and evaluation, including courses taught
+by paid instructors at schools that charge tuition.
+
+DMA Praxis stores model settings in your workbook. Depending on the
+command you run, it can update cells or add worksheets. Its own macros run
+from the installed Excel add-in. DMA Praxis runs analyses on your computer
+without uploading your workbooks, model data, or results to an internet
+service.
+
+DMA Praxis comes without a warranty to the extent permitted by law. You
+are responsible for your models and for independently checking important
+results before relying on them.
+
+On Windows, quit Excel and run Remove DMA Praxis.cmd from the extracted
+installer folder. On Mac, open the DMA Praxis tab in Excel, choose Help,
+and click Uninstall DMA Praxis… at the end of the Help page. Uninstalling
+leaves saved workbooks and their saved model settings in place. PX formulas
+need the add-in to recalculate.
+
+Write to Jiawei Zhang at jz31@stern.nyu.edu for questions or written
+permission requests.
+
+The agreement below contains the complete terms and controls if this
+summary differs from it.
+
+
+LICENSE AGREEMENT
+
+1. Agreement
+
+This agreement is between you and Jiawei Zhang personally, referred to
+below as the Licensor. It covers the DMA Praxis app and Excel add-in for
+Mac and Windows, their supporting files and built-in Help, and updates
+supplied under this agreement, collectively referred to as the Software.
+
+Read these terms before installing. Selecting Agree, or installing or
+using the Software after you have had an opportunity to review these
+terms, signifies your acceptance. If you decline, cancel installation
+and do not use the Software.
+
+2. Use and sharing
+
+If you download the Software from the official download page or receive it
+from the Licensor, you receive a free, personal, nonexclusive,
+nontransferable license to install and use it on computers you own or are
+authorized to use. Permitted uses are coursework, self-study, teaching,
+and evaluation. Ordinary teaching remains permitted when the instructor is
+paid or the school charges tuition.
+
+Paid consulting, client work, commercial operations, and use to make
+actual investment or other financial decisions require the Licensor's
+written permission. This license excludes use in systems where a failure
+could cause injury or substantial property damage.
+
+You may keep backup copies for your own use. Anyone, including an
+instructor, may share the link to the official download page, in public or
+in private, for example on a course site. Each person who downloads the
+Software from that page must accept these terms and receives a separate
+license directly from the Licensor.
+
+Do not share the Software itself. Do not post, upload, host, email, or
+otherwise pass on the installers, zip files, or any other copy of the
+Software, whether altered or unchanged, without the Licensor's written
+permission.
+
+Written permission is required to charge separately for the Software,
+distribute an altered package, remove notices, or modify, decompile, or
+reverse engineer the Software. These restrictions are subject to rights
+granted by applicable law or a separate component license.
+
+3. Ownership
+
+The Licensor and other applicable rights holders retain their rights in
+the Software. Third-party components are governed by their accompanying
+licenses, which control those components in the event of a conflict with
+this agreement. You retain your rights in your own workbooks, data,
+models, and results.
+
+4. Duration
+
+This license ends on June 30, 2027, unless the Licensor extends it in
+writing. An extension may require a newer release. When the installed
+edition expires, DMA Praxis commands stop working and PX formulas may
+return #N/A on recalculation. Before expiration, save any results you need
+in a form you can read without the add-in.
+
+Your license also ends if you uninstall the Software or breach this
+agreement. When your license ends, stop using and sharing the Software
+and remove any installed copies.
+
+5. Responsibility for your analysis
+
+You are responsible for your data, formulas, assumptions, model settings,
+and interpretation of results. Errors in the Software or your model can
+produce plausible but incorrect results. Independently check important
+results and keep backups of important workbooks. These responsibilities
+continue if the Licensor helps you build or troubleshoot a model. Help
+and assistance do not constitute professional advice or approval of
+your analysis.
+
+6. Warranty disclaimer
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS,"
+WITHOUT EXPRESS, IMPLIED, OR STATUTORY WARRANTIES, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND
+ACCURACY.
+
+The Licensor makes no promise of error-free operation, compatibility,
+support, maintenance, or updates. Voluntary assistance does not by itself
+create a warranty or an ongoing obligation to provide support.
+
+7. Limitation of liability
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE LICENSOR AND THE SOFTWARE'S
+OTHER AUTHORS, CONTRIBUTORS, AND LICENSORS ARE NOT LIABLE TO YOU FOR
+LOSSES OR DAMAGES ARISING FROM THE SOFTWARE. THIS INCLUDES LOSSES CONNECTED
+WITH ITS DEVELOPMENT, INSTALLATION, USE, REMOVAL, EXPIRATION, OR INABILITY
+TO OPERATE, OR WITH RELIANCE ON RESULTS, BUILT-IN HELP, OR VOLUNTARY
+ASSISTANCE.
+
+THE EXCLUSION INCLUDES DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL,
+SPECIAL, AND PUNITIVE DAMAGES, LOST PROFITS OR SAVINGS, INTERRUPTED WORK,
+LOST OR DAMAGED DATA, AND LOSSES RESULTING FROM CLAIMS OTHERS MAKE AGAINST
+YOU. IT APPLIES TO CLAIMS BASED ON CONTRACT, ORDINARY NEGLIGENCE, OR ANY
+OTHER LEGAL THEORY, EVEN IF THE LOSS WAS FORESEEABLE OR ITS POSSIBILITY
+HAD BEEN REPORTED.
+
+This agreement preserves rights and remedies, including consumer
+protections, that applicable law makes mandatory. It also preserves
+liability for fraud, intentional misconduct, gross negligence, personal
+injury, or other conduct where applicable law prohibits exclusion.
+
+8. General terms
+
+The Licensor may use feedback you choose to provide to improve the
+Software. Changes to this agreement require written acceptance by you and
+the Licensor, except for an extension under Section 4. If a provision is
+unenforceable, the remaining terms continue to apply to the extent
+permitted by law.
+
+The restrictions in Section 2 and the provisions in Sections 3 and 5
+through 8 continue after the license ends. Separate component licenses
+continue according to their own terms.
+
+Microsoft and Excel are trademarks of Microsoft Corporation. DMA Praxis
+is independently developed and distributed by Jiawei Zhang and is not
+affiliated with or endorsed by Microsoft.
