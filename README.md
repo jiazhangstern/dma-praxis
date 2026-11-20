@@ -9,8 +9,8 @@ This free educational edition works until **June 30, 2027**.
 
 Get the latest version from the **[Releases page](https://github.com/jiazhangstern/dma-praxis/releases/latest)**:
 
-- **Mac:** `DMA-Praxis-0.6.5-for-Mac.zip`. Unzip it and open the installer inside.
-- **Windows:** `DMA-Praxis-0.6.5-for-Windows.zip`. Choose Extract All, then open `Install DMA Praxis.cmd` in the
+- **Mac:** [DMA-Praxis-0.6.5-for-Mac.zip](https://github.com/jiazhangstern/dma-praxis/releases/download/v0.6.5/DMA-Praxis-0.6.5-for-Mac.zip). Unzip it and open the installer inside.
+- **Windows:** [DMA-Praxis-0.6.5-for-Windows.zip](https://github.com/jiazhangstern/dma-praxis/releases/download/v0.6.5/DMA-Praxis-0.6.5-for-Windows.zip). Choose Extract All, then open `Install DMA Praxis.cmd` in the
   extracted folder.
 
 Each zip contains the license and installation instructions.
@@ -19,9 +19,9 @@ Each zip contains the license and installation instructions.
 
 On the same Releases page:
 
-- `DMA-Praxis-Step-by-Step-Guide.pdf`: slides that build a simulation and a stochastic optimization model step by step,
+- [DMA-Praxis-Step-by-Step-Guide.pdf](https://github.com/jiazhangstern/dma-praxis/releases/download/v0.6.5/DMA-Praxis-Step-by-Step-Guide.pdf): slides that build a simulation and a stochastic optimization model step by step,
   using a portfolio of 20 corporate bonds.
-- `Bond_Portfolio_Completed_Models.xlsx`: the finished models of that example.
+- [Bond_Portfolio_Completed_Models.xlsx](https://github.com/jiazhangstern/dma-praxis/releases/download/v0.6.5/Bond_Portfolio_Completed_Models.xlsx): the finished models of that example.
 
 ## Sharing
 
